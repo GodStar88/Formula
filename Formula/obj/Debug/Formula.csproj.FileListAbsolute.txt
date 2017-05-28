@@ -1,0 +1,11 @@
+C:\Users\C\Desktop\Formula\Formula\bin\Debug\Formula.exe.config
+C:\Users\C\Desktop\Formula\Formula\bin\Debug\Formula.exe
+C:\Users\C\Desktop\Formula\Formula\bin\Debug\Formula.pdb
+C:\Users\C\Desktop\Formula\Formula\obj\Debug\Formula.csprojResolveAssemblyReference.cache
+C:\Users\C\Desktop\Formula\Formula\obj\Debug\Formula.Form1.resources
+C:\Users\C\Desktop\Formula\Formula\obj\Debug\Formula.Properties.Resources.resources
+C:\Users\C\Desktop\Formula\Formula\obj\Debug\Formula.csproj.GenerateResource.Cache
+C:\Users\C\Desktop\Formula\Formula\obj\Debug\Formula.exe
+C:\Users\C\Desktop\Formula\Formula\obj\Debug\Formula.pdb
+C:\Users\C\Desktop\Formula\Formula\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\C\Desktop\Formula\Formula\obj\Debug\Formula.csproj.ResolveComReference.cache

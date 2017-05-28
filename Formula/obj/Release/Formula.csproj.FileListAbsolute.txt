@@ -1,0 +1,15 @@
+C:\Users\C\Desktop\Formula\Formula\bin\Release\Formula.exe.config
+C:\Users\C\Desktop\Formula\Formula\obj\Release\Formula.csproj.ResolveComReference.cache
+C:\Users\C\Desktop\Formula\Formula\bin\Release\Formula.exe
+C:\Users\C\Desktop\Formula\Formula\bin\Release\Formula.pdb
+C:\Users\C\Desktop\Formula\Formula\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\C\Desktop\Formula\Formula\obj\Release\Formula.Form1.resources
+C:\Users\C\Desktop\Formula\Formula\obj\Release\Formula.Properties.Resources.resources
+C:\Users\C\Desktop\Formula\Formula\obj\Release\Formula.csproj.GenerateResource.Cache
+C:\Users\C\Desktop\Formula\Formula\obj\Release\Formula.exe
+C:\Users\C\Desktop\Formula\Formula\obj\Release\Formula.pdb
+C:\Users\C\Desktop\Formula\Formula\obj\Release\Formula.csprojResolveAssemblyReference.cache
+E:\Desktop\Formula\Formula\bin\Release\Formula.exe.config
+E:\Desktop\Formula\Formula\obj\Release\Formula.csproj.ResolveComReference.cache
+E:\Desktop\Formula\Formula\obj\Release\Formula.exe
+E:\Desktop\Formula\Formula\obj\Release\Formula.pdb

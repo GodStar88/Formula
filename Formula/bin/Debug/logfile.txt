@@ -1,0 +1,191 @@
+=====Step1=====
+Date Add :20, 21, 10, 1, 11, 11, 12, 
+Date Add :7, 10, 17, 
+Time Add :11, 12, 23, 
+We have 33,  same
+=====Step2=====
+We have 46,  same
+=====Step3=====
+Date 20010112
+Time 11, 12, 23, 
+1) 13  2) 33,   3)46, 
+=====Step4=====
+We have 13,  same
+=====Step5=====
+We have 31 same
+=====Step6=====
+We have 11 same
+=====Step7=====
+We have 0 same
+=====Step8=====
+We have 5 same (3 same with 1,6,7,13,2,4)
+=====Step9=====
+We have 3 same (time add with 1,6,7,13,2,4)
+=====Step10=====
+We have 11 same (3 same with time add)
+=====Step11=====
+Up
+***Rules for new additions***
+=====Step1=====
+We have 33,  same
+=====Step2=====
+Add step1 to time1 and time2 is 44,45
+=====Step3=====
+Check step2 time1 with date again is 4
+***Result***
+Up
+=====Step4=====
+Check step2 time2 with date again is 7
+***Take Note For Final Additions***
+=====Step1=====
+step11 is Up
+=====Step2=====
+Same is 2
+=====Step3=====
+Same is 2
+=====Step4=====
+Same is 0
+=====Step5=====
+Same is 3
+=====Step6=====
+Same is 0
+=====Step7=====
+Same is 0
+=====Step8=====
+Total same is 7
+***Result***
+Down
+***Final tuning***
+=====Step1=====
+Same is 0
+=====Step2=====
+Same is 1
+=====Step3=====
+Same is 0
+=====Step4=====
+Same is 4
+=====Step5=====
+Same is 3
+=====Step6=====
+Same is 1
+=====Step7=====
+Result is Up
+***FINAL STEPS***
+=====Step1=====
+Date Add :20, 21, 10, 1, 11, 11, 12, 
+Date Add :7, 10, 17, 
+Same is 0
+=====Step2=====
+Same is 0
+=====Step3=====
+Same is 0
+=====Step4=====
+Same is 0
+=====Step5=====
+Same is 1
+=====Step6=====
+Same is 0
+=====Step7=====
+Same is 0
+=====Step8=====
+Same is 1
+=====Step9=====
+Same is 0
+=====Step10=====
+Same is 0
+=====Step11=====
+Same is 2
+=====Step12=====
+Same is 4
+***Result***
+Up
+***Final Last part***
+=====Step1=====
+Same is 0
+=====Step2=====
+Same is 3
+=====Step3=====
+Same is 3
+***Result***
+Down
+***Last Few Additions***
+=====Step1=====
+Same is 1
+=====Step2=====
+Same is 0
+=====Step3=====
+Same is 2
+total same is 3
+ex: Then add 5 to 18 is 23 is no same
+Same is 0
+ex: Then add 32+5=37 is 2 same with time add
+Same is 0
+ex: 87+5=92 one same time2=19’s 20
+Same is 0
+ex: Check 69+5=74 is no same
+Same is 0
+Total Same is 3
+***Result***
+Down
+***STEPS FOR ADDITION***
+1) Check time1 and step1 for 9 and exact same => 0
+2) Time1 + total for 9 and exact => 0
+3) step1 and total for 9 and exact => 0
+4) time1 + step1 for 9 and exact => 1
+5) time1+step1+total for 9 and exact => 0
+***STEPS FOR SUBTRACTION***
+1) time1-total check 9 and exact => 0
+2) step1-total check 9 and exact => 0
+3) time1+step1-total check 9 exact => 0
+***SOME MORE STEPS***
+1) time1-step1 and check for 9 only => 1
+2) And (time1-step1) + total and check for 9 only => 0
+3) And (time1-step1) – total and check for 9 only => 0
+Final Total is 2
+***Result***
+Up***Additions***
+Use time1 = 11 and step1 = 33 and final count is 2
+STEP1) Check 11,  with 2 is 0 same
+STEP2) Check 33,  with 2 is 0 same
+STEP3) Check 44,  with 2 is 0 same
+STEP4) Check 13,  with 2 is 0 same
+STEP5) Check 35,  with 2 is 0 same
+STEP6) Check 48, with 2 is 0 same
+STEP7) Check 9,  with 2 is 0 same
+STEP8) Check 31,  with 2 is 0 same
+STEP9) Check 40 with 2 is 0 same
+STEP10) Do until this part to show total same 0 same
+STEP11) Add last same and final total is 2 same
+STEP12) 13,  with all number is 0 same
+STEP13) 35,  with all number is 0 same
+STEP14) So is 2 same
+STEP15) 11, 33, 44, 13, 35, 48, 9, 31, 40,  is 1286 same
+STEP16) So is 101, 123, 123, 142,  is 489 = 57
+ So 10, 1, 11, 12, 3, 15, 12, 3, 15, 14, 2, 16,  with 57 is 13
+ So 70 for 9 is 0
+Check 57 with time for same and breakdown is 5
+Check 13 with time for same and breakdown is 1
+Check 70 with time for same and breakdown is 0
+Check 57 and 13 for 9 same is 1
+Check 57 and 13 for exact same and breakdown is 1
+Total is 7
+-----------------------------------------
+57, 13, 7
+Step1) 7 for 9 is 0 same
+Step2) 20, 21, 41, is 1 same
+Step3) 77, 78, 20, 21, 41, is 5 same
+Step4) 26, 27, 53, 14, 19, 40, 41, 81,  same is 2
+Step5) 85,  for 9 same is 1
+Step6) Down and Down is Up
+-----------------------------------------
+57, 13, 7
+Step1) Check 9 with 57, 13, 7 is 1
+Step2) Check 20, 21, 41,  same is 1
+Step3) Check 98,  same is 1
+Step4) 1) Check 12 with 57, 13, 7 is 2
+Step4) 2) Check 77, 78, 20, 21, 41,  for 9 and 12 same is 9
+Step4) 3) Check 10, 12, 22, 23, 45,  for 9 and 12 same is 10
+Step4) 4) Check Total 21 for 12 same is 2
+So Total is 23
+***Result***
+Down
