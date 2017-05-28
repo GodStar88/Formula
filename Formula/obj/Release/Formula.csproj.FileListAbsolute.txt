@@ -13,3 +13,14 @@ E:\Desktop\Formula\Formula\bin\Release\Formula.exe.config
 E:\Desktop\Formula\Formula\obj\Release\Formula.csproj.ResolveComReference.cache
 E:\Desktop\Formula\Formula\obj\Release\Formula.exe
 E:\Desktop\Formula\Formula\obj\Release\Formula.pdb
+E:\Work\VC\Formula\Formula\bin\Release\Formula.exe.config
+E:\Work\VC\Formula\Formula\obj\Release\Formula.csproj.ResolveComReference.cache
+E:\Work\VC\Formula\Formula\obj\Release\Formula.exe
+E:\Work\VC\Formula\Formula\obj\Release\Formula.pdb
+E:\Work\VC\Formula\Formula\bin\Release\Formula.exe
+E:\Work\VC\Formula\Formula\bin\Release\Formula.pdb
+E:\Work\VC\Formula\Formula\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\Work\VC\Formula\Formula\obj\Release\Formula.csprojResolveAssemblyReference.cache
+E:\Work\VC\Formula\Formula\obj\Release\Formula.Form1.resources
+E:\Work\VC\Formula\Formula\obj\Release\Formula.Properties.Resources.resources
+E:\Work\VC\Formula\Formula\obj\Release\Formula.csproj.GenerateResource.Cache

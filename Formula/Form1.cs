@@ -2779,7 +2779,78 @@ namespace Formula
             add26_same += sameCount;
             msg += Environment.NewLine + "So Total is " + add26_same.ToString();
 
+
+
+            ///last part
+            msg += Environment.NewLine + "-------Last Part------";
+            temp.Clear();
+            list_add1(add26_same, temp);
+            list_add1(total, temp);
+            list_add2(add26_same, total, temp);
+            sameCount = 0;
+            int lastpart1 = 0;
+            int lastpart2 = 0;
+            int lastpart3 = 0;
+            msg += Environment.NewLine + "Check ";
+            for (int i = 0; i < temp.Count; i++)
+            {
+                msg += temp[i].ToString() + ", ";
+                for (int j = 0; j < s7.Count; j++)
+                {
+                    sameCount += fuc_same(temp[i], s7[j]);
+                }
+                for (int j = 0; j < DateList.Count; j++)
+                {
+                    sameCount += fuc_same(temp[i], DateList[j]);
+                }
+                sameCount += fuc_same(temp[i], 9);
+            }
+            msg += " with time add and date add and 9 is " + sameCount.ToString() + " same";
+            lastpart1 = sameCount;
+            sameCount = 0;
+            temp.Clear();
+            list_add2(add26_same, lastpart1, temp);
+            list_add2(total, lastpart1, temp);
+            msg += Environment.NewLine + "Check ";
+            for (int i = 0; i < temp.Count; i++)
+            {
+                msg += temp[i].ToString() + ", ";
+                for (int j = 0; j < s7.Count; j++)
+                {
+                    sameCount += fuc_same(temp[i], s7[j]);
+                }
+                for (int j = 0; j < DateList.Count; j++)
+                {
+                    sameCount += fuc_same(temp[i], DateList[j]);
+                }
+                sameCount += fuc_same(temp[i], 9);
+            }
+            msg += " with time add and date add and 9 is " + sameCount.ToString() + " same";
+            lastpart2 = sameCount;
+            sameCount = 0;
+            msg += Environment.NewLine + "Check ";
+            sameCount = 0;
+            temp.Clear();
+            list_add1(lastpart1, temp);
+            list_add1(lastpart2, temp);
+            list_add2(lastpart1, lastpart2, temp);
+            for (int i = 0; i < temp.Count; i++)
+            {
+                msg += temp[i].ToString() + ", ";
+                for (int j = 0; j < s7.Count; j++)
+                {
+                    sameCount += fuc_same(temp[i], s7[j]);
+                }
+            }
+            lastpart3 = sameCount;
+            msg += " with time add " + lastpart3.ToString() + " same";
+
+
+            add26_same = lastpart1 + lastpart2 + lastpart3;
+            msg += Environment.NewLine + "So total is " + add26_same.ToString();
         }
+
+        
 
         private void button1_Click(object sender, EventArgs e)
         {
